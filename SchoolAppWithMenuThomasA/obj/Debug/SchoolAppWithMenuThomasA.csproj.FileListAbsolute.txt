@@ -1,0 +1,9 @@
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\SchoolAppWithMenuThomasA\SchoolAppWithMenuThomasA\bin\Debug\SchoolAppWithMenuThomasA.exe.config
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\SchoolAppWithMenuThomasA\SchoolAppWithMenuThomasA\bin\Debug\SchoolAppWithMenuThomasA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\SchoolAppWithMenuThomasA\SchoolAppWithMenuThomasA\bin\Debug\SchoolAppWithMenuThomasA.pdb
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\SchoolAppWithMenuThomasA\SchoolAppWithMenuThomasA\obj\Debug\SchoolAppWithMenuThomasA.csprojResolveAssemblyReference.cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\SchoolAppWithMenuThomasA\SchoolAppWithMenuThomasA\obj\Debug\SchoolAppWithMenuThomasA.Properties.Resources.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\SchoolAppWithMenuThomasA\SchoolAppWithMenuThomasA\obj\Debug\SchoolAppWithMenuThomasA.frmSchoolAppWithMenu.resources
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\SchoolAppWithMenuThomasA\SchoolAppWithMenuThomasA\obj\Debug\SchoolAppWithMenuThomasA.csproj.GenerateResource.Cache
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\SchoolAppWithMenuThomasA\SchoolAppWithMenuThomasA\obj\Debug\SchoolAppWithMenuThomasA.exe
+N:\StuShare\Semester 2 - Winter 2018\ICS3U Programming\Aubin, Thomas (s405546)\Introduction\SchoolAppWithMenuThomasA\SchoolAppWithMenuThomasA\obj\Debug\SchoolAppWithMenuThomasA.pdb
